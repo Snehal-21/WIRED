@@ -506,7 +506,7 @@
     #bodypicinfo>div:nth-child(1){
         width:100%;
         /* flex-direction: column; */
-        border: 3px solid yellow;
+        /* border: 3px solid yellow; */
     }
     #bodypicinfo>div:nth-child(2){
         width:100%;
